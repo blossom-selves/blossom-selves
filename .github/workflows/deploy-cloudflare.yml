@@ -36,8 +36,8 @@ jobs:
           WORKFLOW_RUN_ID=${GITHUB_RUN_ID}
           
           # 简体中文 (zh-CN)
-          if [ -f "docs/zh-CN/about.md" ]; then
-            cat >> docs/zh-CN/about.md << EOF
+          if [ -f "content/zh-CN/about.md" ]; then
+            cat >> content/zh-CN/about.md << EOF
           
           
           ## 构建信息
@@ -50,8 +50,8 @@ jobs:
           fi
           
           # 繁体中文台湾 (zh-TW)
-          if [ -f "docs/zh-TW/about.md" ]; then
-            cat >> docs/zh-TW/about.md << EOF
+          if [ -f "content/zh-TW/about.md" ]; then
+            cat >> content/zh-TW/about.md << EOF
           
           
           ## 構建資訊
@@ -64,8 +64,8 @@ jobs:
           fi
           
           # 繁体中文香港 (zh-HK)
-          if [ -f "docs/zh-HK/about.md" ]; then
-            cat >> docs/zh-HK/about.md << EOF
+          if [ -f "content/zh-HK/about.md" ]; then
+            cat >> content/zh-HK/about.md << EOF
           
           
           ## 構建資訊
@@ -78,8 +78,8 @@ jobs:
           fi
           
           # 英文 (en-US)
-          if [ -f "docs/en-US/about.md" ]; then
-            cat >> docs/en-US/about.md << EOF
+          if [ -f "content/en-US/about.md" ]; then
+            cat >> content/en-US/about.md << EOF
           
           
           ## Build Information
@@ -100,5 +100,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_PAGES_ACCOUNT }}
           projectName: ${{ secrets.CLOUDFLARE_PAGES_NAME }}
-          directory: docs/.vitepress/dist
+          directory: content/.vitepress/dist
           wranglerVersion: 3

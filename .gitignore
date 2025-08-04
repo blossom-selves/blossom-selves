@@ -9,10 +9,10 @@
 !.yarn/versions
 
 # VitePress
-docs/.vitepress/cache
-docs/.vitepress/dist
-docs/.vitepress/.temp
-docs/.vitepress/components.d.ts
+content/.vitepress/cache
+content/.vitepress/dist
+content/.vitepress/.temp
+content/.vitepress/components.d.ts
 
 # misc
 .DS_Store

@@ -1,7 +1,23 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "@mdit/plugin-footnote": "^0.13.1",
+    "@mdit/plugin-ruby": "^0.14.0",
+    "@splidejs/vue-splide": "^0.6.12",
+    "@vitejs/plugin-vue-jsx": "^4.0.1",
+    "ical": "^0.8.0",
+    "lxgw-wenkai-webfont": "^1.7.0",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "sass": "^1.80.6",
+    "unocss": "^0.64.0",
+    "vitepress": "1.5.0",
+    "vitepress-sidebar": "^1.29.0",
+    "vue": "^3.5.12"
+  },
   "devDependencies": {
-    "vitepress": "^1.6.3"
+    "@types/ical": "^0.8.3",
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^22.9.0",
+    "prettier": "^3.3.3"
   },
   "scripts": {
     "docs:dev": "vitepress dev content",

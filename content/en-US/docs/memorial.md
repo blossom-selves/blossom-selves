@@ -6,7 +6,7 @@ title: Memorial Site Editing Guide
 
 ## Project Structure
 
-One-Among.Us is a fully open source website. The source code and articles are stored mainly in the three GitHub repositories: [`data`](https://github.com/one-among-us/data), [`web`](https://github.com/one-among-us/web), and [`backend`](https://github.com/one-among-us/backend). If you want to contribute only to the content of the website, you can simply focus on the `data` repo. 
+One-Among.Us is a fully open source website. The source code and articles are stored mainly in the three GitHub repositories: [`data`](https://github.com/blossom-selves/data), [`web`](https://github.com/blossom-selves/web), and [`backend`](https://github.com/blossom-selves/backend). If you want to contribute only to the content of the website, you can simply focus on the `data` repo. 
 
 If you want to leave a comment, simply use the forms in the website.
 
@@ -23,7 +23,7 @@ The article should be written in third person. Please use proper gender pronouns
 
 Use proper punctuations in articles. In Chinese articles, regardless of different Chinese variants, use「」(outer) and『』(inner) for quotation marks in replace of “” or ‘’ unless the words in the quotation marks are not Chinese. Use curly quotation marks instead of straight ones.
 
-If referring to outside resources, use web archive services such as [Internet Archive](https://archive.org) and [archive.today](https://archive.ph) (see [data/#141](https://github.com/one-among-us/data/issues/141)). 
+If referring to outside resources, use web archive services such as [Internet Archive](https://archive.org) and [archive.today](https://archive.ph) (see [data/#141](https://github.com/blossom-selves/data/issues/141)). 
 
 To protect our readers, if someone departed from us through suicide, please hide the detail of their methods as you can. You must not write down the name or dose of the medicine or drugs if it was an overdose or poisoning. You may also refer to [*Preventing suicide: a resource for media professionals*](https://apps.who.int/iris/handle/10665/258814) by World Health Organization (Chinese version also available), if applicable.
 

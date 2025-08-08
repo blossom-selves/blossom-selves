@@ -57,7 +57,7 @@ items:
         16.6015L9.01614 15.321C9.05253 15.1209 9.14908 14.9366 9.29291
         14.7928L11.5128 12.573L8.17695 14.4791Z"/></svg>
     - title: GitHub
-      link: https://github.com/one-among-us
+      link: https://github.com/blossom-selves
       icon:
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0
         0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round"

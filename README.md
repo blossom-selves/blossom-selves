@@ -14,18 +14,18 @@
 
 <div align="center">
   <a href="https://github.com/blossom-selves/blossom-selves">
-    <img src="docs/public/logos/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/public/assets/blsv.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Blossom Like You</h3>
+  <h3 align="center">Blossom Selves</h3>
   <p align="center">
-    “花开如你”（Blossom Like You）冥想系列
+    A site that strives to provide strong support for trans women.
     <br />
-    <a href="https://bloom.blsv.org/"><strong>快速了解 >></strong></a>
+    <a href="https://www.blsv.org/"><strong>Quick Facts >></strong></a>
     <br />
     <br />
-    <a href="https://github.dev/blossom-selves/blossom-selves">快速编辑</a>
+    <a href="https://github.dev/blossom-selves/blossom-selves">Quick Edit</a>
     ·
-    <a href="https://github.com/blossom-selves/blossom-selves/issues">报告错误/提交建议</a>
+    <a href="https://github.com/blossom-selves/blossom-selves/issues">Reporting errors/submitting suggestions</a>
     ·
     <a href="#">More...</a>
   </p>
@@ -61,10 +61,10 @@
 # 关于本项目
 
 <div align="center">
-<img src="docs/public/logos/product-screenshot.jpg" alt="product-screenshot" width="512" height="361">
+<img src="docs/public/assets/blsv-intro.png" alt="product-screenshot" width="512" height="361">
 </div>
 
-**“花开如你”（Blossom Like You）** 是一套专为跨性别女性（Transgender Women）量身打造的心理关怀冥想练习开源项目。我们致力于通过科学的正念、冥想和自我接纳练习，帮助跨性别女性缓解生理与心理不适，增强对自我和女性身份的积极认同，陪伴她们在自我实现与成长的道路上温柔绽放。
+**“花开如你”（Blossom Selves）** 是一套专为跨性别女性（Transgender Women）量身打造的心理关怀冥想练习开源项目。我们致力于通过科学的正念、冥想和自我接纳练习，帮助跨性别女性缓解生理与心理不适，增强对自我和女性身份的积极认同，陪伴她们在自我实现与成长的道路上温柔绽放。
 
 本项目为所有跨性别女性（或探索者）、心理健康工作者、LGBTQ+社群及其盟友免费开放，欢迎一起改进和推广。
 

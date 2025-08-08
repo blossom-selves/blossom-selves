@@ -65,7 +65,7 @@ One Among Us 最初的起点以及最重要的业务是纪念逝去的{跨性别
 
 > 那些因为各种原因过早离开我们的生命，那些跨性别者和我们的顺性别伙伴们（allies），仍然是我们中的一员（one among us），在默默照顾着、陪伴着我们，赋予我们继续生活的勇气。或许现实中的纪念碑上写着的并不是 ta 们所中意的姓名，也未必体现了 ta 们真实的认同，但我们仍然可以在自己的纪念中实现这一切。
 
-我们收集跨性别和性别多元社群内的逝者资料，为 ta 们编写条目，在网上立起 ta 们的纪念碑。请访问 [那些秋叶 one-among.us](https://one-among.us) 为那些逝去的生命献上您的哀思与祝福吧。您也可以通过我们的 [GitHub 仓库](https://github.com/one-among-us/data) 来贡献关于您不希望忘记的逝者的条目。
+我们收集跨性别和性别多元社群内的逝者资料，为 ta 们编写条目，在网上立起 ta 们的纪念碑。请访问 [那些秋叶 one-among.us](https://one-among.us) 为那些逝去的生命献上您的哀思与祝福吧。您也可以通过我们的 [GitHub 仓库](https://github.com/blossom-selves) 来贡献关于您不希望忘记的逝者的条目。
 
 ### 在地社群
 
@@ -76,7 +76,7 @@ One Among Us 最初的起点以及最重要的业务是纪念逝去的{跨性别
 
 ### 跨性别选校手册
 
-2024年，跨性别选校手册的编辑部加入了我们。请访问 [uniguide.oneamongus.ca](https://uniguide.oau.edu.kg/zh-hans) 获得更多信息。我们鼓励你共同编辑！
+2024年，跨性别选校手册的编辑部加入了我们。请访问 [uniguide.oneamongus.ca](https://uniguide.oau.edu.kg/zh-CN) 获得更多信息。我们鼓励你共同编辑！
 
 ### Arts Among Us
 

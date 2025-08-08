@@ -27,39 +27,35 @@ hero:
       link: /posts
 
 features:
-  - icon: <img src="/assets/favicon-new.png">
-    title: One Among Us
-    details: A memorial website dedicated to transgender individuals and their allies who had passed away.
+  - icon: <img src="/assets/blsv-logo.png">
+    title: Blossom Like You
+    details: A Compassion and Self-Identity Meditation Practice Designed for Transgender Women's Physical and Mental Growth
     link: https://one-among.us
-  - icon: <img src="https://rle.wiki/logo.svg">
-    title: RLE.wiki
-    details: A collective effort aimed at providing valuable resources and support for transgender and gender-diverse real-life experience.
-    link: https://rle.oau.app/
   - icon: <img src="/assets/rxn-logo.png">
     title: Local Services
     details: Local service groups. Mainly in Greater Toronto Area.
     link: /docs/community
+  - icon: <img src="/assets/onechannel-logo.png">
+    title: One Channel! <nobr>Interchildren's Pride Joint Broadcast</nobr>
+    details: A Chinese-language trans-children's information sharing channel jointly operated by Trans in Academia! and One Among Us.
+    link: https://kazv.moe/users/tia
 
 friends:
-  - title: Project Trans
-    details: Project Trans (formerly MtF.wiki) aims to better maintain multiple projects including MtF wiki, FtM wiki and more.
-    link: https://about.project-trans.org/en/
-    icon: <img src="/assets/prts-logo.png">
-  - title: 'Awesome Trans'
-    details: A transgender navigation site owned and maintained by Project Trans.
-    link: https://2345.lgbt/en/
-    icon: <img src="/assets/2345brand.svg">
-  - title: Trans in Academia! (TiA!)
-    details: An organization aiming to document theoretical and practical knowledge from the Sinophone trans community, help trans people pursue studies, professional development, and employment, share academic knowledge related to trans issues, and produce original content from the perspective of trans people. 
-    link: https://transinacademia.org
-    icon: <img src="/assets/tia-logo.png">
+  - title: One Among Us
+    details: 'A warm, strong and resilient community for East-Asian and East-Asian Canadian transgender and gender-diverse people.'
+    link: 'https://oneamongus.ca/'
+    icon: '<img src="/assets/one-among-us.png">'
+  - title: Project Polymorph
+    details: Dedicated to collecting, preserving, and organizing any relevant historical imprints of the pan-trans community - from personal stories, community discussions, literary and artistic works, to news reports and academic content.
+    link: https://transchinese.org/
+    icon: '<img src="/assets/polymorph.png">'
 ---
 
-Hi! We are One Among Us, proudly a community of the proud East Asian and East Asian-Canadian transgender and gender-diverse family. We provide peer and community support for our fellows, aiming to build connections between travelers and those in our hometown.
+Hi there! We are Blossom Selves, our team members are mainly from Mainland China and Taiwan, and our partner is One Among Us, which is dedicated to building a warm supportive community and companion network for trans and gender diverse friends.
 
-We started as [a memorial site](https://one-among.us) for our friends and allies who passed away. We believe that both those who are still living and those who had passed away are important members of our community, are the “Ones” Among Us. Now we have developed into [an alliance of seven interconnected workgroups](./about).
+Our journey began with “[Blossom Like You](https://bloom.blsv.org/)” - a meditation series for transgender women that focuses on compassionate care and self-identity. It is a gentle harbor for nourishment and growth, and a guide for more people to meet in beauty.
 
-We are a registered not-for-profit organization in Ontario, Canada.
+We are a community-contributing non-profit organization.
 
 ## Events Calendar
 

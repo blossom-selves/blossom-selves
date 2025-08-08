@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/blossom-selves/blossom-selves">
-    <img src="docs/public/assets/blsv.png" alt="Logo" width="80" height="80">
+    <img src="con te n t/public/assets/blsv.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Blossom Selves</h3>
   <p align="center">
@@ -61,7 +61,7 @@
 # 关于本项目
 
 <div align="center">
-<img src="docs/public/assets/blsv-intro.png" alt="product-screenshot" width="512" height="361">
+<img src="content/public/assets/blsv-intro.png" alt="product-screenshot" width="512" height="361">
 </div>
 
 **“花开如你”（Blossom Selves）** 是一套专为跨性别女性（Transgender Women）量身打造的心理关怀冥想练习开源项目。我们致力于通过科学的正念、冥想和自我接纳练习，帮助跨性别女性缓解生理与心理不适，增强对自我和女性身份的积极认同，陪伴她们在自我实现与成长的道路上温柔绽放。

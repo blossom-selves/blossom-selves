@@ -2,29 +2,29 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: 'Blossom Like You'
+  name: 'Blossom Selves'
   text: ''
-  tagline: A warm, strong and resilient community for East-Asian and East-Asian Canadian transgender and gender-diverse people.
+  tagline: A place where those drawn together by the pursuit of gentleness and resilience gather, illuminating one another through beauty and serenity.
   image: /assets/blsv-logo.png
   actions:
     - theme: alt
       text: About
       link: /about
     - theme: alt
-      text: People
-      link: /people
-    - theme: alt
-      text: Events
-      link: /events
+      text: Contact & Support Us!
+      link: /contact
     - theme: alt
       text: Docs & Resources
       link: /docs
     - theme: alt
+      text: Events
+      link: /events
+    - theme: alt
+      text: People
+      link: /people
+    - theme: alt
       text: Announcements
       link: /posts
-    - theme: brand
-      text: Contact & Support Us!
-      link: /contact
 
 features:
   - icon: <img src="/assets/favicon-new.png">

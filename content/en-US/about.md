@@ -67,7 +67,7 @@ As we write on the front page:
 
 We collect information about those who have passed away within our transgender community and write entries for them lest we forget.
 
-Visit [one-among.us](https://one-among.us) and leave a small lollipop to our beloved friends. Contribute an entry to whom you commemorate via [our GitHub repository](https://github.com/one-among-us/data).
+Visit [one-among.us](https://one-among.us) and leave a small lollipop to our beloved friends. Contribute an entry to whom you commemorate via [our GitHub repository](https://github.com/blossom-selves).
 
 ### Local Groups
 

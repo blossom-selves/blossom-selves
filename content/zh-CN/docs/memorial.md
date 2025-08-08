@@ -5,7 +5,7 @@ title: 纪念网站编辑指南
 
 ## 项目结构
 
-那些秋叶 One-Among.Us 是开源网站。文章和源代码均储存于 GitHub，由三个仓库组成：[`data`](https://github.com/one-among-us/data) 主要存放文章和评论，[`web`](https://github.com/one-among-us/web) 主要存放前端代码，[`backend`](https://github.com/one-among-us/backend) 存放后端代码。如果想要做内容的更新，只需要关注 `data` 仓库的结构就好。 
+那些秋叶 One-Among.Us 是开源网站。文章和源代码均储存于 GitHub，由三个仓库组成：[`data`](https://github.com/blossom-selves/data) 主要存放文章和评论，[`web`](https://github.com/blossom-selves/web) 主要存放前端代码，[`backend`](https://github.com/blossom-selves/backend) 存放后端代码。如果想要做内容的更新，只需要关注 `data` 仓库的结构就好。 
 
 评论是机器人自动同步上去的，只需要在网站上填写。
 
@@ -22,7 +22,7 @@ title: 纪念网站编辑指南
 
 在各种语文的条目中都应当使用通行规范标点。仅有一处特殊情况：如无特殊说明，无论是哪种中文版本，引号都请使用直角引号「」（外层）和『』（内层）代替 “” 和 ‘’，除非所引用内容并非中文。英文引号需要使用 “” 和 ‘’，而不是没有弯曲度的 " 或者 '。
 
-如果要引用外部来源，请使用网络档案馆链接服务，比如 [Internet Archive](https://archive.org) 和 [archive.today](https://archive.ph) 等 (参见 [data/#141](https://github.com/one-among-us/data/issues/141) 的讨论）。
+如果要引用外部来源，请使用网络档案馆链接服务，比如 [Internet Archive](https://archive.org) 和 [archive.today](https://archive.ph) 等 (参见 [data/#141](https://github.com/blossom-selves/data/issues/141) 的讨论）。
 
 为了保护我们的读者，如果逝者是自杀离去的，请尽量淡化具体的方式。如果是采取药物的方式，不可以写出具体的药品名称或剂量。如果涉及和自杀相关的报道，还请参照世界卫生组织的 [媒体工作者预防自杀指南](https://apps.who.int/iris/handle/10665/258814)（可以从链接下载中文版）。
 
